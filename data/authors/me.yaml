@@ -13,7 +13,7 @@ postnominals:
   - "Peking University"
 status:
   icon: "✨"
-role: "A Junior Computer Science Student at Peking University"
+role: "A Junior Computer Science Student"
 bio: "A junior Computer Science student at the School of EECS, Peking University. My current research interests lie in Multimodal Large Language Models (MLLMs), specifically focusing on the integration of vision and language processing."
 affiliations:
   - name: "Peking University"
@@ -54,7 +54,8 @@ experience:
   - role: "Research Assistant"
     org: "Peking University"
     start: "2025-04-01"
-    summary: "Working on HMI research."
+    end: "2025-12-08"
+    summary: "Working in HMI Lab."
 
 # 技能列表
 skills:
