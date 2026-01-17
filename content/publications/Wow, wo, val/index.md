@@ -57,7 +57,7 @@ links:
     name: Project Page
     url: https://wow-world-model.github.io/
 
-url_pdf: '[Wow, wo, val.pdf](https://arxiv.org/abs/2601.04137)'
+url_pdf: 'https://arxiv.org/abs/2601.04137'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,7 +71,7 @@ url_video: ''
 image:
   caption: 'Metrics, Abilities, and Performance of Embodied World Models'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

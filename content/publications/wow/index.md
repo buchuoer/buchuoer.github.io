@@ -59,7 +59,7 @@ links:
     name: Project Page
     url: https://wow-world-model.github.io/
 
-url_pdf: '[wow.pdf](https://arxiv.org/abs/2509.22642)'
+url_pdf: 'https://arxiv.org/abs/2509.22642'
 url_code: ''
 url_dataset: ''
 url_poster: ''

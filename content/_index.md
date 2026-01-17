@@ -45,17 +45,17 @@ sections:
         My current research interests lie in **Multimodal Large Language Models (MLLMs)**, specifically focusing on the integration of vision and language processing.
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publications
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
