@@ -9,25 +9,18 @@ name:
   pronunciation: ""
   pronouns: "he/him"
 postnominals:
-  - "undergraduate"
+  - "Undergraduate"
   - "Peking University"
 status:
   icon: "☕️"
 role: "A Junior Computer Science Student at Peking University"
-bio: "A junior Computer Science student at the School of EECS, Peking University.
+bio: "A junior Computer Science student at the School of EECS, Peking University. My current research interests lie in Multimodal Large Language Models (MLLMs), specifically focusing on the integration of vision and language processing."
 
-  My current research interests lie in Multimodal Large Language Models (MLLMs), 
-
-  specifically focusing on the integration of vision and language processing. \n"
-affiliations:
-  - name: "Meta AI"
-    url: "https://ai.meta.com/"
+# 你的详细联系方式
 links:
-  - icon: "at-symbol"
-    url: "mailto:alex.johnson@example.com"
+  - icon: "envelope"
+    url: "mailto:chenlizhang2022@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/x"
-    url: "https://x.com/example"
   - icon: "brands/github"
     url: "https://github.com/example"
   - icon: "brands/linkedin"
@@ -42,64 +35,49 @@ interests:
   - "Reinforcement Learning"
   - "AI Ethics"
 education:
-  - degree: "PhD Computer Science"
-    institution: "Stanford University"
-    start: "2015-09-01"
-    end: "2019-06-30"
-    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
-    button:
-      text: "Download dissertation"
-      url: "/resume.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "MS Computer Science"
-    institution: "Carnegie Mellon University"
-    start: "2013-09-01"
-    end: "2015-05-31"
-  - degree: "BS Computer Science"
-    institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+  - degree: "B.S. in Computer Science"
+    institution: "Peking University"
+    start: "2022-09-01"  # 假设你是2022级，请按需修改
+    end: "2026-06-30"    # 预计毕业时间
+    summary: "School of Electronics Engineering and Computer Science (EECS)."
+    # button:
+    #   text: "Download transcript"
+    #   url: "/uploads/transcript.pdf"
+    #   icon: "hero/arrow-down-tray"
+
+# 工作/实习经历
 experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  # 这里是一个示例，如果没有实习经历可以暂时注释掉或改为校园经历
+  # - role: "Research Assistant"
+  #   org: "Peking University"
+  #   start: "2023-09-01"
+  #   summary: "Working on MLLM research."
+
+# 技能列表
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
         level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
+      - label: "PyTorch"
         level: 4
-  - name: "Research & Communication"
+      - label: "C++"
+        level: 4
+  - name: "Research"
     items:
+      - label: "Deep Learning"
+        level: 4
       - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
+        level: 3
+
+# 语言能力
 languages:
-  - name: "English"
+  - name: "Chinese"
     level: 5
     label: "Native"
-  - name: "Spanish"
+  - name: "English"
     level: 4
-    label: "Fluent"
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
+    label: "Professional"
+
+# 获奖经历 (如果没有可以先清空)
+awards: []

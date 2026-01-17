@@ -11,13 +11,13 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: A Junior Computer Science Student at Peking University
+role: A Junior Student Majoring in Computer Science at Peking University
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +37,7 @@ education:
   courses:
     - course: Undergraduate in Computer Science
       institution: Peking University
-      year: 2026 (Expected)
+      year: 2027 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
