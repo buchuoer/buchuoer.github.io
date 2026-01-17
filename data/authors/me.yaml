@@ -12,23 +12,23 @@ postnominals:
   - "Undergraduate"
   - "Peking University"
 status:
-  icon: "☕️"
+  icon: "✨"
 role: "A Junior Computer Science Student at Peking University"
 bio: "A junior Computer Science student at the School of EECS, Peking University. My current research interests lie in Multimodal Large Language Models (MLLMs), specifically focusing on the integration of vision and language processing."
 
 # 你的详细联系方式
 links:
   - icon: "envelope"
-    url: "mailto:chenlizhang2022@gmail.com"
+    url: "mailto:chenlizhang2022@stu.pku.edu.cn"
     label: "E-mail Me"
   - icon: "brands/github"
-    url: "https://github.com/example"
-  - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/example/"
+    url: "https://github.com/buchuoer"
+  # - icon: "brands/linkedin"
+  #   url: "https://www.linkedin.com/in/example/"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=example"
-  - icon: "academicons/orcid"
-    url: "https://orcid.org/0000-0002-1825-0097"
+    url: "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=-3-6cIEAAAAJ&gmla=APjjwua-QfvrUaqR53N0wwy1kImRAD7XoZbpt8OnGNGDrVlcBuLL56mmr2HBsUji-SNWLZLIIA0A5Xj7hoGRe15sBy7ifyKJ38iXW8oMeug9hkx4YFyIFxWo80LT"
+  # - icon: "academicons/orcid"
+  #   url: "https://orcid.org/0000-0002-1825-0097"
 interests:
   - "Large Language Models"
   - "Computer Vision"
@@ -38,7 +38,7 @@ education:
   - degree: "B.S. in Computer Science"
     institution: "Peking University"
     start: "2022-09-01"  # 假设你是2022级，请按需修改
-    end: "2026-06-30"    # 预计毕业时间
+    end: "2027-06-30"    # 预计毕业时间
     summary: "School of Electronics Engineering and Computer Science (EECS)."
     # button:
     #   text: "Download transcript"
@@ -48,10 +48,10 @@ education:
 # 工作/实习经历
 experience:
   # 这里是一个示例，如果没有实习经历可以暂时注释掉或改为校园经历
-  # - role: "Research Assistant"
-  #   org: "Peking University"
-  #   start: "2023-09-01"
-  #   summary: "Working on MLLM research."
+  - role: "Research Assistant"
+    org: "Peking University"
+    start: "2025-04-01"
+    summary: "Working on HMI research."
 
 # 技能列表
 skills:
@@ -76,8 +76,8 @@ languages:
     level: 5
     label: "Native"
   - name: "English"
-    level: 4
-    label: "Professional"
+    level: 2
+    label: ""
 
 # 获奖经历 (如果没有可以先清空)
 awards: []
