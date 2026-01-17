@@ -15,6 +15,9 @@ status:
   icon: "✨"
 role: "A Junior Computer Science Student at Peking University"
 bio: "A junior Computer Science student at the School of EECS, Peking University. My current research interests lie in Multimodal Large Language Models (MLLMs), specifically focusing on the integration of vision and language processing."
+affiliations:
+  - name: "Peking University"
+    url: "https://english.pku.edu.cn"
 
 # 你的详细联系方式
 links:
