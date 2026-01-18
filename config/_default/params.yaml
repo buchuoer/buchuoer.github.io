@@ -18,7 +18,7 @@ hugoblox:
   layout:
     radius: md
     spacing: comfortable
-    avatar_shape: circle
+    avatar_shape: square
   header:
     enable: true
     style: navbar
