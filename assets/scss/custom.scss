@@ -1,0 +1,10 @@
+/* Custom CSS to overwrite default styles */
+
+/* Force avatar to be square (or rounded square) */
+.avatar-circle {
+  border-radius: 12px !important; /* Adjust this value: 0 for sharp square, 12px for rounded square */
+}
+
+.avatar {
+  border-radius: 12px !important;
+}
